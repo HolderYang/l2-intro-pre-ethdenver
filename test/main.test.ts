@@ -1,3 +1,4 @@
+// test
 import { expect } from 'chai';
 import { Wallet, Provider, Contract } from 'zksync-web3';
 import * as hre from 'hardhat';
